@@ -1,0 +1,15 @@
+@import url('/nav.css');
+video {
+    display: block; 
+    margin: 0 auto;
+    background: grey;
+}
+table {
+    margin: 0 auto;
+}
+h2 {
+    text-align: center; 
+}
+footer {
+    text-align: center; 
+}
